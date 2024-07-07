@@ -1,0 +1,41 @@
+---
+title: File Converter Tool
+description: Generate a file based on a different supported file format.
+template: splash
+hero:
+    tagline: Generate a file based on a different supported file format.
+        Available on the Microsoft Store for Windows devices.
+    image:
+        file: ../../assets/fct-logo.png
+    actions:
+        - text: Download File Converter Tool
+          link: https://github.com/rzmk/fct
+          icon: external
+          variant: primary
+        - text: Source Code
+          link: https://github.com/rzmk/fct
+          icon: external
+---
+
+![File Converter Tool demo](/fct-demo.gif)
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+<CardGrid stagger>
+    <Card title="Supported conversions" icon="setting">
+        Supports PNG to JPG and JPG to PNG.
+    </Card>
+    <Card title="Generate and save locally" icon="add-document">
+        Files are generated and saved on your local device.
+    </Card>
+    <Card title="Light and dark themes" icon="moon">
+        Switch between light and dark themes.
+    </Card>
+    <Card title="Automatically shows output file" icon="open-book">
+        The output file is automatically shown in the File Explorer.
+    </Card>
+</CardGrid>
+
+---
+
+[Privacy Policy](/privacy-policy)
