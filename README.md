@@ -6,6 +6,8 @@ Download File Converter Tool from the Microsoft Store [here]().
 
 Visit the website here: [fct.mueezkhan.com](https://fct.mueezkhan.com).
 
+![fct-demo](https://github.com/rzmk/fct/assets/30333942/3cbc9475-41fa-4895-ae21-c87e309505e3)
+
 ## Features
 
 -   Supports `.png` to `.jpg` and `.jpg` to `.png`.
