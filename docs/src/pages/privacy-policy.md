@@ -19,7 +19,7 @@ We refer to individuals that use File Converter Tool as "you" throughout this po
 
 File Converter Tool is not intended to collect, share, and/or store data to any third-parties over the Internet. File conversion processing is intended to be run on your local device.
 
-File Converter Tool may use libraries and/or programs for its core features (e.g., file conversion). The libraries/programs used can be found within the File Converter Tool's source code at https://github.com/rzmk/fct. For example a few locations for dependencies/programs include: the [`src/package.json`](https://github.com/rzmk/fct/tree/main/package.json), [`src-tauri/Cargo.toml`](https://github.com/rzmk/fct/tree/main/src-tauri/Cargo.toml), and/or [`src-tauri/bin`](https://github.com/rzmk/fct/tree/main/src-tauri/bin) file(s) and folder(s). These libraries/programs have not been independently verified by us to ensure that they do not access the Internet and/or collect, share, and/or store data.
+File Converter Tool may use libraries and/or programs for its core features (e.g., file conversion). The libraries/programs used can be found within the File Converter Tool's source code at https://github.com/rzmk/fct. For example a few locations for dependencies/programs include: the [`package.json`](https://github.com/rzmk/fct/tree/main/package.json), [`src-tauri/Cargo.toml`](https://github.com/rzmk/fct/tree/main/src-tauri/Cargo.toml), and/or [`src-tauri/bin`](https://github.com/rzmk/fct/tree/main/src-tauri/bin) file(s) and folder(s). These libraries/programs have not been independently verified by us to ensure that they do not access the Internet and/or collect, share, and/or store data.
 
 ## Changes and questions
 
