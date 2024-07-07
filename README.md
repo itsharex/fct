@@ -2,7 +2,9 @@
 
 Desktop app to generate a new file with a different format than the user's given supported file. Available for supported Windows devices.
 
-Download File Converter Tool from the Microsoft Store [here]().
+Currently File Converter Tool is under review for its first release to publish to the Microsoft Store. Once published, the link should be added here and on the website.
+
+<!-- Download File Converter Tool from the Microsoft Store [here](). -->
 
 Visit the website here: [fct.mueezkhan.com](https://fct.mueezkhan.com).
 
