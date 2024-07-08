@@ -1071,21 +1071,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9fc0510504f03c51ada170672ac806f1f105a88aa97a5281117e1ddc3368e51a"
 
 [[package]]
-name = "fct"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "anyhow-tauri",
- "image",
- "serde",
- "serde_json",
- "showfile",
- "tauri",
- "tauri-build",
- "tauri-plugin-dialog",
-]
-
-[[package]]
 name = "fdeflate"
 version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1102,6 +1087,21 @@ checksum = "38e2275cc4e4fc009b0669731a1e5ab7ebf11f469eaede2bab9309a5b4d6057f"
 dependencies = [
  "memoffset 0.9.1",
  "rustc_version",
+]
+
+[[package]]
+name = "file-converter-tool"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "anyhow-tauri",
+ "image",
+ "serde",
+ "serde_json",
+ "showfile",
+ "tauri",
+ "tauri-build",
+ "tauri-plugin-dialog",
 ]
 
 [[package]]
