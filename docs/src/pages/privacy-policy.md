@@ -9,9 +9,9 @@ This page (https://fct.mueezkhan.com/privacy-policy) includes the File Converter
 
 # Privacy policy
 
-_Last updated: July 7, 2024_
+_Last updated: July 8, 2024_
 
-This policy applies to the File Converter Tool desktop app which can be downloaded from the Microsoft Store for supported Windows devices.
+This policy applies to the File Converter Tool desktop app which may be downloaded from the Microsoft Store for supported Windows devices.
 
 We refer to individuals that use File Converter Tool as "you" throughout this policy.
 
